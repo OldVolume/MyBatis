@@ -1,0 +1,12 @@
+com\atguigu\mybatis\pojo\DeptExample$Criteria.class
+com\atguigu\mybatis\pojo\Dept.class
+com\atguigu\mybatis\pojo\EmpExample$Criteria.class
+com\atguigu\mybatis\pojo\Emp.class
+com\atguigu\mybatis\mapper\EmpMapper.class
+com\atguigu\mybatis\pojo\DeptExample$Criterion.class
+com\atguigu\mybatis\pojo\EmpExample$GeneratedCriteria.class
+com\atguigu\mybatis\pojo\EmpExample$Criterion.class
+com\atguigu\mybatis\pojo\DeptExample$GeneratedCriteria.class
+com\atguigu\mybatis\pojo\EmpExample.class
+com\atguigu\mybatis\mapper\DeptMapper.class
+com\atguigu\mybatis\pojo\DeptExample.class
